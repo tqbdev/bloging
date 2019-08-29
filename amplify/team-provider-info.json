@@ -1,0 +1,14 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "bloging-prod-20190829102223-authRole",
+            "UnauthRoleArn": "arn:aws:iam::154441612543:role/bloging-prod-20190829102223-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::154441612543:role/bloging-prod-20190829102223-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "bloging-prod-20190829102223-deployment",
+            "UnauthRoleName": "bloging-prod-20190829102223-unauthRole",
+            "StackName": "bloging-prod-20190829102223",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:154441612543:stack/bloging-prod-20190829102223/387b1700-ca0c-11e9-8f30-0a8814e42c86"
+        }
+    }
+}
